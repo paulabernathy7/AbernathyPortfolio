@@ -1,0 +1,27 @@
+body { background-color: #50bae8;
+  opacity: 0.9;
+
+}
+
+
+h1 {background-color: black;
+    width: 18%;
+    padding: 50px px;
+    color: white;
+    margin: 0 auto;
+    font-family: "times new roman";
+
+}
+
+a { color: white;
+  text-decoration: none;
+
+}
+
+.row-image {
+  height: 100px;
+  width: 150px;
+  box-shadow: 10px 10px 5px black;
+  margin-right: 15px;
+  border: 5px solid white;
+}
