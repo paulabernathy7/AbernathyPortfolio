@@ -5,11 +5,12 @@ body { background-color: #50bae8;
 
 
 h1 {background-color: black;
-    width: 18%;
-    padding: 50px px;
+    width: 15%;
+    padding: 0px 50px;
     color: white;
     margin: 0 auto;
     font-family: "times new roman";
+    text-align: center;
 
 }
 
@@ -24,4 +25,27 @@ a { color: white;
   box-shadow: 10px 10px 5px black;
   margin-right: 15px;
   border: 5px solid white;
+}
+
+
+.topnav {
+    background-color: Black;
+    overflow: hidden;
+    width: 15%;
+    min-width: 500px;
+}
+
+.topnav a {
+  padding: 20px;
+
+}
+
+p {
+  font-family: "times new roman"
+
+}
+
+blockquote {
+  color: white;
+
 }
