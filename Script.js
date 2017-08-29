@@ -1,5 +1,11 @@
 
 
 function myFunction() {
-    document.getElementById("field4").value = document.getElementById("firstname").value + ",welcome!"
+var x, text;
+
+    x = document.getElementById("firstname").value;
+
+    text = x + ", welcome!";
+ document.getElementById("welcomefirstname").innerHTML = text;
+
 }
