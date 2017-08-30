@@ -9,7 +9,7 @@ h1 {background-color: black;
     padding: 0px 50px;
     color: white;
     margin: 0 auto;
-    font-family: "times new roman";
+    font-family: 'Slabo 27px', serif;
     text-align: center;
 
 }
@@ -48,4 +48,8 @@ p {
 blockquote {
   color: white;
 
+}
+
+#firstparagraph {
+  color: white;
 }
